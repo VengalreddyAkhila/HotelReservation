@@ -1,1 +1,13 @@
-[{"id":1,"name":"Oyo","numberofrooms":20,"Beds":"singlebed","price":2500},{"id":2,"name":"TajHotel","numberofrooms":10,"Beds":"doublebed","price":1500},{"id":2,"name":"TajHotel","numberofrooms":10,"Beds":"doublebed","price":1500},{"id":2,"name":"TajHotel","numberofrooms":10,"Beds":"doublebed","price":1500}]
+[{
+  "id":1,
+    "name":"Haveli",
+    "numberofrooms":10,
+    "Beds":"doublebed",
+    "price":1500
+},{
+  "id":2,
+    "name":"Oyo",
+    "numberofrooms":10,
+    "Beds":"doublebed",
+    "price":1500
+}]
